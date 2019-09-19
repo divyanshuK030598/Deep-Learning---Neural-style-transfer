@@ -1,0 +1,3 @@
+content_image = scipy.misc.imread("images/louvre.jpg")
+style_image = scipy.misc.imread("images/claude-monet.jpg")
+# place the name of your image in the above linesof the code to test your own image.
